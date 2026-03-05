@@ -1,0 +1,1 @@
+This data contains more of 10, 000 rows and more than 10 columns which contains features of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more. So in this exploratory data analysis , we will explore the data and make it ready for modeling.
